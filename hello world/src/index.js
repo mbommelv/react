@@ -6,4 +6,4 @@ const Hello = (props) => (
         <h1>hello react {props.name} you are {props.age} years old</h1>
     </div>
 )
-ReactDOM.render(<Hello name='Turnip Carrot' age={51}/>, document.getElementById("root"));
+ReactDOM.render(<Hello name='Turnip Gitgud' age={51}/>, document.getElementById("root"));
